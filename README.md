@@ -1,3 +1,5 @@
+Business idea: Equaliser - A browser-based audio tool for working with MP3 files, offering basic equalizer features such as frequency adjustment, gain control, and visual audio feedback. The goal is to provide musicians, podcasters, and casual users with an easy-to- use tool to enhance their audio experience without needing to install software. 
+
 # CanApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
